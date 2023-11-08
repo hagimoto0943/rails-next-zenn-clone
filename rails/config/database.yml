@@ -22,5 +22,5 @@ development:
 test:
   <<: *default
   host: db
-  database: myapp_development
+  database: myapp_test
   password: password
